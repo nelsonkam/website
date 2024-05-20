@@ -13,7 +13,7 @@ custom: true
         <p class="">
           Hey there! I’m Nelson, and I love computers. I’m currently studying
           Computer Science at
-          <a href="https://www.umontreal.ca/">University de Montréal</a>.
+          <a href="https://www.umontreal.ca/">Université de Montréal</a>.
         </p>
         <p class="">
           In the past, I worked a lot in the fintech space in Africa. With a
@@ -21,14 +21,13 @@ custom: true
           <a href="https://www.linkedin.com/company/72695570/">Kash</a>, a
           credit card issuing service for African consumers (think Revolut or
           Cash app, but for Africa). We grew
-          <a href="https://www.linkedin.com/company/72695570/">Kash</a>
-          to about 20,000 users and processed about $500K in payments. After
+          Kash to about 20,000 users and processed about $500K in payments. After
           that, I joined
           <a href="https://chippercash.com/">Chipper Cash</a>
           as a senior software engineer and worked on their money movement and
           crypto infrastructure. I also worked as a tech lead at
-          <a href="https://www.djamo.com/">Djamo</a>, a neobank backed by
-          YC-based Ivory Coast.
+          <a href="https://www.djamo.com/">Djamo</a>, the first neobank based in West Africa backed by
+          YC.
         </p>
         <p class="">
           After a few years of professional experience, I’ve decided to go back
