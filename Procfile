@@ -1,1 +1,1 @@
-web: bin/start-nginx-static
+web: serve -p $PORT .vitepress/dist
