@@ -1,0 +1,21 @@
+---
+title: Marathon
+url: /marathon/
+excerpt: >-
+  I&#39;ve been meaning to write this article for some time now. The idea for
+  this
+
+  article came from the fact that I&#39;ve started running again with the goal
+  of
+
+  being able to run a marathon simply because it seems incredible to me that
+
+  people can run
+date: 2021-08-28
+read_time: 2
+tags:
+  - life
+---
+
+<p>I've been meaning to write this article for some time now. The idea for this article came from the fact that I've started running again with the goal of being able to run a marathon simply because it seems incredible to me that people can run non-stop for 42km. For me, it is a way to tell myself that I can do anything that I set my mind to, even if it looks impossible or insurmountable at first.</p><p>Looking back, the decision to get to running was one of the best decisions I could make for my personal development. It taught me consistency, that I could things I didn't think I was capable of, and to push past the pain so I could grow into the person I should be. It helped me move from a place where I wasn't consistent enough to do anything for more than a couple of months to doing things for almost a couple of years and still going (albeit not always good at it). I learned how to stick to something and to keep going even when I have no idea what I should do, even when it is painful or untenable. Although I have learned how to stick to something (which is only half of the way to consistency), I am yet to learn how to be regular, how to apply my efforts in the right direction at a regular pace to grow and improve (as long as I am patient).</p><p>This brings me to the marathon metaphor. No one does a couch to 42km in a single run. No single person ever. None. Niete. Zilch. Keep that in mind. To run a marathon, you have to train consistently for months, moving through different milestones (1km, 5km, 10km, 21km &amp; 42km) and getting comfortable at each of those milestones. You have to be consistent, stick to your training (to see the results), and train regularly (so the compound effect does its thing so you can reap the results faster). There are a lot of metaphors to pick up from the process of training for a marathon but the one I am trying to convey here is that to achieve any great endeavor, in my case building a successful multi-billion dollar company you have to start with small steps. Pass through each milestone getting better at the game until someday you're able to build and grow a multi-billion dollar company (just like a marathon) but it doesn't happen in one day, and the first couple of trials will make the end goal seem impossible but if you trust in the process and keep feeding the compound effect machine, then with time you'll feel more and more confident on getting to your end goal.</p><p>See, the best way to fail is to stop trying. The second best way to fail is to try only when you feel like it (with half-hearted efforts). The third best way to fail is to not learn from your mistakes, repeating the same mistakes again and again. If you want to get to your end goal, you'll have to put in the work even if you don't feel like you'll be able to reach your end goal today. All you have to do is to put in the work today, so your future self can get hit that end goal you feel you can't reach today.</p>
+        

@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,d as n}from"./chunks/framework.DO0YUCYT.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{"custom":true},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),o={name:"index.md"},s=n("",1),r=[s];function i(c,d,l,p,h,m){return t(),a("div",null,r)}const _=e(o,[["render",i]]);export{f as __pageData,_ as default};

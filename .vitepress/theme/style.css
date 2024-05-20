@@ -1,0 +1,103 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.content {
+  @apply prose
+  prose-p:mb-4
+  prose-p:mt-0
+  prose-p:leading-relaxed
+  prose-p:before:hidden
+  prose-p:after:hidden
+
+  prose-ul:mt-1
+  prose-ul:mb-4
+  prose-ul:pl-8
+  marker:prose-ul:text-black
+
+  prose-ol:pl-8
+  prose-ol:mt-1
+  prose-ol:mb-4
+  marker:prose-ol:text-black
+
+  prose-li:mt-0.5
+  prose-li:mb-0
+  prose-li:text-black
+  first:prose-li:mt-0
+
+  prose-headings:font-semibold
+  prose-headings:tracking-tight
+  prose-headings:mt-[1.25em]
+  prose-headings:mb-[0.7em]
+  prose-headings:py-0
+
+  prose-h1:text-[32px]
+  prose-h2:text-2xl
+  prose-h3:text-xl
+  prose-h4:text-lg
+  prose-h5:text-base
+
+  prose-img:mx-auto
+  prose-img:mt-6
+
+  prose-video:mt-6
+  prose-video:mb-2
+
+  prose-code:bg-neutral-100
+  prose-code:rounded-md
+  prose-code:px-2
+  prose-code:inline-block
+  prose-code:font-normal
+  prose-code:text-[85%]
+  prose-code:leading-relaxed
+  prose-code:text-black
+  prose-code:before:hidden
+  prose-code:after:hidden
+  prose-code:my-0
+
+  prose-pre:bg-neutral-100
+  prose-pre:text-black
+  prose-pre:mb-4
+  prose-pre:mt-0
+  prose-pre:whitespace-pre-wrap
+  prose-pre:rounded-lg
+  prose-pre:px-3
+  prose-pre:py-3
+  prose-pre:text-base
+
+  prose-blockquote:before:hidden
+  prose-blockquote:after:hidden
+  prose-blockquote:not-italic
+  prose-blockquote:font-normal
+  prose-blockquote:text-neutral-500
+
+  prose-a:font-normal
+  prose-a:underline-offset-2
+  prose-a:text-blue-600
+
+  prose-th:text-left
+
+  prose-hr:my-6
+
+  mb-20
+  max-w-none
+  break-words
+  py-5
+  text-black;
+}
+
+.nav-link {
+  @apply text-sm font-semibold leading-6 text-gray-900 hover:text-blue-600 hover:underline underline-offset-4;
+}
+
+#me-img {
+  content: url(/me.jpg);
+}
+
+#me-img:hover {
+  content: url(/me-cat.jpg);
+}
+
+.mobile-nav-link {
+  @apply -mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50;
+}
