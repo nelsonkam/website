@@ -1,1 +1,0 @@
-web: serve -p $PORT .vitepress/dist
