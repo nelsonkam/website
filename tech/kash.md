@@ -2,6 +2,7 @@
 title: How I built Kash
 date: 2024-05-25
 excerpt: Building a B2C prepaid credit card app from scratch
+description: Building a B2C prepaid credit card app from scratch
 ---
 
 A few years ago I started a company called Kash. Kash was a FinTech company whose main product was a mobile app that enabled users to generate virtual prepaid VISA cards and fund them using their mobile money wallet. If you're unfamiliar with mobile money, you can think of it as a digital wallet linked to your phone number.

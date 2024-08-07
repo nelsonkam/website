@@ -20,7 +20,7 @@ function formatDate(date: Date) {
         </h2>
         <p class="text-sm text-gray-500">{{ formatDate(new Date(post.frontmatter.date)) }}</p>
       </div>
-      <p class="text-base" v-html="post.excerpt"></p>
+      <p class="text-base" v-html="post.excerpt || post.frontmatter.excerpt"></p>
     </a>
   </div>
 </main>
