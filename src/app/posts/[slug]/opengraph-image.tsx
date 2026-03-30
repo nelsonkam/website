@@ -3,6 +3,12 @@ import { readFile } from "node:fs/promises";
 import { join } from "node:path";
 import { getAllPosts } from "@/lib/posts";
 
+export const dynamic = "force-static";
+
+export function generateStaticParams() {
+  return getAllPosts().map((post) => ({ slug: post.slug }));
+}
+
 export const size = {
   width: 1200,
   height: 630,
