@@ -88,7 +88,7 @@ export default async function Image({
               style={{
                 fontSize: 24,
                 fontFamily: "BerkeleyMono",
-                color: "#999",
+                color: "#ccc",
                 lineHeight: 1.4,
               }}
             >

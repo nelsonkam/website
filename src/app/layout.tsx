@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   ),
   title: {
     default: siteConfig.title,
-    template: `%s :: ${siteConfig.title}`,
+    template: `%s`,
   },
   description: siteConfig.description,
 };
